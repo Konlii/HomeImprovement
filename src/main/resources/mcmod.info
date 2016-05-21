@@ -1,0 +1,16 @@
+[
+{
+  "modid": "homeimprovement",
+  "name": "Home Improvement",
+  "description": "The Home Improvement mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Konlii"],
+  "credits": "Bioxx and everyone else working hard on TerraFirmaCraft\nThis mod is heavily based on their amazing lumber mechanics\nhttp://terrafirmacraft.com",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
